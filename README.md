@@ -8,3 +8,8 @@ Unlock the full potential of Elementor Page Builder with the **HGO PHP Dynamic T
 <p align="center" width="100%">
     <img src="https://github.com/H-Ghamarzadeh/HGO-PHP-Dynamic-Tag-for-Elementor/blob/main/Screenshot%202.png?raw=true"> 
 </p>
+
+
+Download Link:
+
+https://github.com/H-Ghamarzadeh/HGO-PHP-Dynamic-Tag-for-Elementor/releases
